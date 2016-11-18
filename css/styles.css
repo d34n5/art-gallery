@@ -1,0 +1,67 @@
+*,
+*::before,
+*::after {
+  -web-kit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  margin-left: 20%;
+}
+
+.nav {
+  margin: 20px;
+}
+
+.product-tile {
+  float:left;
+  text-align: center;
+  margin: 20px;
+  position: relative
+}
+
+.product-tile:nth-child(3n+4) {
+  clear: left;
+}
+
+.product-pic {
+  height: 300px;
+  width: 200px;
+}
+
+.price {
+  position: absolute;
+  top: 410px;
+  left: 50px;
+  font-size: 2em;
+}
+
+.caption {
+  margin-top: 50px;
+}
+
+#header {
+  width: 100%;
+}
+
+#subheader {
+  padding-left: 50px;
+  max-width: 700px;
+}
+
+#navbar {
+  width: 60%;
+  text-align: center;
+  margin-left: 50px;
+}
+
+#hero {
+  float: right;
+  margin-top: -50px;
+}
