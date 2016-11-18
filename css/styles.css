@@ -13,7 +13,11 @@ body {
 }
 
 h1 {
-  margin-left: 20%;
+  margin-left: 15%;
+}
+
+h1::first-letter {
+  font-size: 2em;
 }
 
 .nav {
