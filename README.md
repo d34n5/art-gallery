@@ -1,8 +1,12 @@
 # Cosmonaut Art Gallery #
 
-#### CSS Layout Using Floats, Absolute & Relative Positioning ####
+### Please check it out live on gh-pages: https://d34n5.github.io/art-gallery ###
 
-## Week 1 CSS Independent Project by Dean Scelza @ Epicodus, 11-18-16 ##
+![screenshot](img/cosmo-ss.png)
+
+### CSS Layout Using Floats, Absolute & Relative Positioning ###
+
+### Week 1 CSS Independent Project by Dean Scelza @ Epicodus, 11-18-16 ###
 
 #### Description & Technologies Used ####
 This single page art gallery web app lists items for sale.
